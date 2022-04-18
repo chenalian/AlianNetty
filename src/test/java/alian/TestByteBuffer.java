@@ -5,7 +5,7 @@
  * @create: 2022-04-13 21:47
  **/
 
-package day1;
+package alian;
 
 import lombok.extern.slf4j.Slf4j;
 
